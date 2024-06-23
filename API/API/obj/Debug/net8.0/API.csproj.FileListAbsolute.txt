@@ -1,0 +1,121 @@
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\bin\Debug\net8.0\appsettings.json
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\bin\Debug\net8.0\API.exe
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\bin\Debug\net8.0\API.deps.json
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\bin\Debug\net8.0\API.runtimeconfig.json
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\bin\Debug\net8.0\API.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\bin\Debug\net8.0\API.pdb
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\obj\Debug\net8.0\staticwebassets\msbuild.build.API.props
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\obj\Debug\net8.0\API.csproj.Up2Date
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\obj\Debug\net8.0\API.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\obj\Debug\net8.0\refint\API.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\obj\Debug\net8.0\API.pdb
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\obj\Debug\net8.0\API.genruntimeconfig.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\bin\Debug\net8.0\API.exe
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\bin\Debug\net8.0\API.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\bin\Debug\net8.0\appsettings.json
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\obj\Debug\net8.0\staticwebassets\msbuild.build.API.props
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\obj\Debug\net8.0\API.csproj.Up2Date
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\obj\Debug\net8.0\API.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\obj\Debug\net8.0\refint\API.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\obj\Debug\net8.0\API.pdb
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\bin\Debug\net8.0\API.deps.json
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\bin\Debug\net8.0\API.runtimeconfig.json
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\bin\Debug\net8.0\API.pdb
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\obj\Debug\net8.0\API.genruntimeconfig.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\API\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\bin\Debug\net8.0\appsettings.json
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\bin\Debug\net8.0\API.exe
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\bin\Debug\net8.0\API.deps.json
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\bin\Debug\net8.0\API.runtimeconfig.json
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\bin\Debug\net8.0\API.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\bin\Debug\net8.0\API.pdb
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\obj\Debug\net8.0\staticwebassets\msbuild.build.API.props
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\obj\Debug\net8.0\API.csproj.Up2Date
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\obj\Debug\net8.0\API.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\obj\Debug\net8.0\refint\API.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\obj\Debug\net8.0\API.pdb
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\obj\Debug\net8.0\API.genruntimeconfig.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API\API\obj\Debug\net8.0\API.sourcelink.json

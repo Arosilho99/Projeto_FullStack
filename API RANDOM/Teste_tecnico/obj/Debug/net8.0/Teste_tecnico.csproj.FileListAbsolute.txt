@@ -1,0 +1,61 @@
+C:\Users\Ander\OneDrive\Área de Trabalho\Teste_tecnico\Teste_tecnico\bin\Debug\net8.0\Teste_tecnico.exe
+C:\Users\Ander\OneDrive\Área de Trabalho\Teste_tecnico\Teste_tecnico\bin\Debug\net8.0\Teste_tecnico.deps.json
+C:\Users\Ander\OneDrive\Área de Trabalho\Teste_tecnico\Teste_tecnico\bin\Debug\net8.0\Teste_tecnico.runtimeconfig.json
+C:\Users\Ander\OneDrive\Área de Trabalho\Teste_tecnico\Teste_tecnico\bin\Debug\net8.0\Teste_tecnico.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\Teste_tecnico\Teste_tecnico\bin\Debug\net8.0\Teste_tecnico.pdb
+C:\Users\Ander\OneDrive\Área de Trabalho\Teste_tecnico\Teste_tecnico\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\Teste_tecnico\Teste_tecnico\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\Teste_tecnico\Teste_tecnico\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\Teste_tecnico\Teste_tecnico\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\Teste_tecnico\Teste_tecnico\obj\Debug\net8.0\Teste_tecnico.csproj.AssemblyReference.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\Teste_tecnico\Teste_tecnico\obj\Debug\net8.0\Teste_tecnico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ander\OneDrive\Área de Trabalho\Teste_tecnico\Teste_tecnico\obj\Debug\net8.0\Teste_tecnico.AssemblyInfoInputs.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\Teste_tecnico\Teste_tecnico\obj\Debug\net8.0\Teste_tecnico.AssemblyInfo.cs
+C:\Users\Ander\OneDrive\Área de Trabalho\Teste_tecnico\Teste_tecnico\obj\Debug\net8.0\Teste_tecnico.csproj.CoreCompileInputs.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\Teste_tecnico\Teste_tecnico\obj\Debug\net8.0\Teste_te.909B8456.Up2Date
+C:\Users\Ander\OneDrive\Área de Trabalho\Teste_tecnico\Teste_tecnico\obj\Debug\net8.0\Teste_tecnico.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\Teste_tecnico\Teste_tecnico\obj\Debug\net8.0\refint\Teste_tecnico.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\Teste_tecnico\Teste_tecnico\obj\Debug\net8.0\Teste_tecnico.pdb
+C:\Users\Ander\OneDrive\Área de Trabalho\Teste_tecnico\Teste_tecnico\obj\Debug\net8.0\Teste_tecnico.genruntimeconfig.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\Teste_tecnico\Teste_tecnico\obj\Debug\net8.0\ref\Teste_tecnico.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\Teste_tecnico_API-master\Teste_tecnico\bin\Debug\net8.0\Teste_tecnico.exe
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\Teste_tecnico_API-master\Teste_tecnico\bin\Debug\net8.0\Teste_tecnico.deps.json
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\Teste_tecnico_API-master\Teste_tecnico\bin\Debug\net8.0\Teste_tecnico.runtimeconfig.json
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\Teste_tecnico_API-master\Teste_tecnico\bin\Debug\net8.0\Teste_tecnico.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\Teste_tecnico_API-master\Teste_tecnico\bin\Debug\net8.0\Teste_tecnico.pdb
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\Teste_tecnico_API-master\Teste_tecnico\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\Teste_tecnico_API-master\Teste_tecnico\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\Teste_tecnico_API-master\Teste_tecnico\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\Teste_tecnico_API-master\Teste_tecnico\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\Teste_tecnico_API-master\Teste_tecnico\obj\Debug\net8.0\Teste_tecnico.csproj.AssemblyReference.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\Teste_tecnico_API-master\Teste_tecnico\obj\Debug\net8.0\Teste_tecnico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\Teste_tecnico_API-master\Teste_tecnico\obj\Debug\net8.0\Teste_tecnico.AssemblyInfoInputs.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\Teste_tecnico_API-master\Teste_tecnico\obj\Debug\net8.0\Teste_tecnico.AssemblyInfo.cs
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\Teste_tecnico_API-master\Teste_tecnico\obj\Debug\net8.0\Teste_tecnico.csproj.CoreCompileInputs.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\Teste_tecnico_API-master\Teste_tecnico\obj\Debug\net8.0\Teste_te.909B8456.Up2Date
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\Teste_tecnico_API-master\Teste_tecnico\obj\Debug\net8.0\Teste_tecnico.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\Teste_tecnico_API-master\Teste_tecnico\obj\Debug\net8.0\refint\Teste_tecnico.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\Teste_tecnico_API-master\Teste_tecnico\obj\Debug\net8.0\Teste_tecnico.pdb
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\Teste_tecnico_API-master\Teste_tecnico\obj\Debug\net8.0\Teste_tecnico.genruntimeconfig.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\Teste_tecnico_API-master\Teste_tecnico\obj\Debug\net8.0\ref\Teste_tecnico.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API RANDOM\Teste_tecnico\bin\Debug\net8.0\Teste_tecnico.exe
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API RANDOM\Teste_tecnico\bin\Debug\net8.0\Teste_tecnico.deps.json
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API RANDOM\Teste_tecnico\bin\Debug\net8.0\Teste_tecnico.runtimeconfig.json
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API RANDOM\Teste_tecnico\bin\Debug\net8.0\Teste_tecnico.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API RANDOM\Teste_tecnico\bin\Debug\net8.0\Teste_tecnico.pdb
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API RANDOM\Teste_tecnico\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API RANDOM\Teste_tecnico\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API RANDOM\Teste_tecnico\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API RANDOM\Teste_tecnico\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API RANDOM\Teste_tecnico\obj\Debug\net8.0\Teste_tecnico.csproj.AssemblyReference.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API RANDOM\Teste_tecnico\obj\Debug\net8.0\Teste_tecnico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API RANDOM\Teste_tecnico\obj\Debug\net8.0\Teste_tecnico.AssemblyInfoInputs.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API RANDOM\Teste_tecnico\obj\Debug\net8.0\Teste_tecnico.AssemblyInfo.cs
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API RANDOM\Teste_tecnico\obj\Debug\net8.0\Teste_tecnico.csproj.CoreCompileInputs.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API RANDOM\Teste_tecnico\obj\Debug\net8.0\Teste_tecnico.sourcelink.json
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API RANDOM\Teste_tecnico\obj\Debug\net8.0\Teste_te.909B8456.Up2Date
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API RANDOM\Teste_tecnico\obj\Debug\net8.0\Teste_tecnico.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API RANDOM\Teste_tecnico\obj\Debug\net8.0\refint\Teste_tecnico.dll
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API RANDOM\Teste_tecnico\obj\Debug\net8.0\Teste_tecnico.pdb
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API RANDOM\Teste_tecnico\obj\Debug\net8.0\Teste_tecnico.genruntimeconfig.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\API RANDOM\Teste_tecnico\obj\Debug\net8.0\ref\Teste_tecnico.dll

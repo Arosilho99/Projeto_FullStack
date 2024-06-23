@@ -1,0 +1,19 @@
+banco de dados : postgres
+usuario : postgres
+senha : 123456
+
+para testar com o site, usar o XAMPP ou similar e rodar no console do projeto dO site "node server.js" para ativar a rota de consumo
+
+CREATE TABLE Usuarios (
+    id SERIAL PRIMARY KEY,
+    primeiro_nome TEXT,
+    ultimo_nome TEXT,
+    email TEXT,
+    pais TEXT,
+    telefone TEXT,
+    data_nascimento TEXT,
+    foto_url TEXT
+);
+
+
+

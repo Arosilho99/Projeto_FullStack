@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "msfE9+uD1IITjimCK1B97GV9Wh0ZzCNzVrQhXDOQ45erfhJWmDoyEPbFJp54Io5PWn7H++bxLs2M0ZPkuppMtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ander\\OneDrive\\Área de Trabalho\\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\\API RANDOM\\Teste_tecnico\\Teste_tecnico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ander\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ander\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ander\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Ander\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Npgsql' 8.0.2 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c",
+      "libraryId": "Npgsql",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

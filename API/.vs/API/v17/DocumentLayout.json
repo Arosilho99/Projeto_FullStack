@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ander\\OneDrive\\\u00C1rea de Trabalho\\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20677DF8-7667-4A92-AAA0-1316EE1B77F9}|API\\API.csproj|c:\\users\\ander\\onedrive\\\u00E1rea de trabalho\\recrutamento interno programador full stack - home office\\api\\api\\controllers\\randomusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20677DF8-7667-4A92-AAA0-1316EE1B77F9}|API\\API.csproj|solutionrelative:api\\controllers\\randomusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20677DF8-7667-4A92-AAA0-1316EE1B77F9}|API\\API.csproj|c:\\users\\ander\\onedrive\\\u00E1rea de trabalho\\recrutamento interno programador full stack - home office\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20677DF8-7667-4A92-AAA0-1316EE1B77F9}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20677DF8-7667-4A92-AAA0-1316EE1B77F9}|API\\API.csproj|c:\\users\\ander\\onedrive\\\u00E1rea de trabalho\\recrutamento interno programador full stack - home office\\api\\api\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20677DF8-7667-4A92-AAA0-1316EE1B77F9}|API\\API.csproj|solutionrelative:api\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20677DF8-7667-4A92-AAA0-1316EE1B77F9}|API\\API.csproj|c:\\users\\ander\\onedrive\\\u00E1rea de trabalho\\recrutamento interno programador full stack - home office\\api\\api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20677DF8-7667-4A92-AAA0-1316EE1B77F9}|API\\API.csproj|solutionrelative:api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20677DF8-7667-4A92-AAA0-1316EE1B77F9}|API\\API.csproj|c:\\users\\ander\\onedrive\\\u00E1rea de trabalho\\recrutamento interno programador full stack - home office\\api\\api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20677DF8-7667-4A92-AAA0-1316EE1B77F9}|API\\API.csproj|solutionrelative:api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20677DF8-7667-4A92-AAA0-1316EE1B77F9}|API\\API.csproj|c:\\users\\ander\\onedrive\\\u00E1rea de trabalho\\recrutamento interno programador full stack - home office\\api\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20677DF8-7667-4A92-AAA0-1316EE1B77F9}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20677DF8-7667-4A92-AAA0-1316EE1B77F9}|API\\API.csproj|c:\\users\\ander\\onedrive\\\u00E1rea de trabalho\\recrutamento interno programador full stack - home office\\api\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20677DF8-7667-4A92-AAA0-1316EE1B77F9}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20677DF8-7667-4A92-AAA0-1316EE1B77F9}|API\\API.csproj|c:\\users\\ander\\onedrive\\\u00E1rea de trabalho\\recrutamento interno programador full stack - home office\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20677DF8-7667-4A92-AAA0-1316EE1B77F9}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20677DF8-7667-4A92-AAA0-1316EE1B77F9}|API\\API.csproj|c:\\users\\ander\\onedrive\\\u00E1rea de trabalho\\recrutamento interno programador full stack - home office\\api\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{20677DF8-7667-4A92-AAA0-1316EE1B77F9}|API\\API.csproj|solutionrelative:api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RandomUserController.cs",
+              "DocumentMoniker": "C:\\Users\\Ander\\OneDrive\\\u00C1rea de Trabalho\\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\\API\\API\\Controllers\\RandomUserController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\RandomUserController.cs",
+              "ToolTip": "C:\\Users\\Ander\\OneDrive\\\u00C1rea de Trabalho\\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\\API\\API\\Controllers\\RandomUserController.cs",
+              "RelativeToolTip": "API\\Controllers\\RandomUserController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAiwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T12:49:27.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "API.csproj",
+              "DocumentMoniker": "C:\\Users\\Ander\\OneDrive\\\u00C1rea de Trabalho\\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\\API\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\Ander\\OneDrive\\\u00C1rea de Trabalho\\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\\API\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-22T01:41:43.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Ander\\OneDrive\\\u00C1rea de Trabalho\\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\\API\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Ander\\OneDrive\\\u00C1rea de Trabalho\\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\\API\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-22T01:41:12.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Ander\\OneDrive\\\u00C1rea de Trabalho\\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\\API\\API\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Ander\\OneDrive\\\u00C1rea de Trabalho\\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\\API\\API\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "API\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T01:28:43.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ander\\OneDrive\\\u00C1rea de Trabalho\\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\\API\\API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ander\\OneDrive\\\u00C1rea de Trabalho\\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\\API\\API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "API\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T01:28:31.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Ander\\OneDrive\\\u00C1rea de Trabalho\\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\\API\\API\\Models\\usuarios.cs",
+              "RelativeDocumentMoniker": "API\\Models\\usuarios.cs",
+              "ToolTip": "C:\\Users\\Ander\\OneDrive\\\u00C1rea de Trabalho\\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\\API\\API\\Models\\usuarios.cs",
+              "RelativeToolTip": "API\\Models\\usuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T01:28:23.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "API.http",
+              "DocumentMoniker": "C:\\Users\\Ander\\OneDrive\\\u00C1rea de Trabalho\\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\\API\\API\\API.http",
+              "RelativeDocumentMoniker": "API\\API.http",
+              "ToolTip": "C:\\Users\\Ander\\OneDrive\\\u00C1rea de Trabalho\\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\\API\\API\\API.http",
+              "RelativeToolTip": "API\\API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-22T01:28:16.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ander\\OneDrive\\\u00C1rea de Trabalho\\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\\API\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ander\\OneDrive\\\u00C1rea de Trabalho\\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\\API\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-22T01:27:00.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ander\\OneDrive\\\u00C1rea de Trabalho\\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\\API\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\Ander\\OneDrive\\\u00C1rea de Trabalho\\RECRUTAMENTO INTERNO PROGRAMADOR FULL STACK - HOME OFFICE\\API\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T22:43:17.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
