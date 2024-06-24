@@ -15,5 +15,8 @@ CREATE TABLE Usuarios (
     foto_url TEXT
 );
 
+link para acesso do swagger
+https://localhost:5001/swagger/index.html
+
 
 
